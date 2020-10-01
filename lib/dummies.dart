@@ -1,3 +1,0 @@
-import 'package:paradise/models/destination.dart';
-
-List<Destination> des=List.generate(10, (index) => Destination(details: "bla bala balsjd sdifuhsif", lat: 10, listImage: ["https://fakta.news/wp-content/uploads/2018/12/lesung.jpg","https://asset.kompas.com/crops/hq_SgwzmXrVQj9SMpcvwqo2i30s=/0x0:1000x667/750x500/data/photo/2017/10/30/09044221509328457d4d-tanjung-lesung-surga-di-ujung-pulau-jawa.jpg"], long: 10, name: "Tanjung Lesung", place: "Kab pandeglang,banten."));
